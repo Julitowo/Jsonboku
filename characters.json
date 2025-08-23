@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "All For One",
+        "heroName": "N/A",
+        "quirk": "All For One",
+        "imageUrl": "https://static.wikia.nocookie.net/villains/images/3/32/All_For_One_Profile.png/revision/latest/scale-to-width/360?cb=20240109162257"
+    },
+    {
+        "id": 2,
+        "name": "Tomura Shigaraki",
+        "heroName": "N/A",
+        "quirk": "Decay",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/0/01/Post-War_Tomura_Shigaraki.png/revision/latest?cb=20240615225157"
+    },
+    {
+        "id": 3,
+        "name": "Toshinori Yagi",
+        "heroName": "All Might",
+        "quirk": "One For All",
+        "imageUrl": "https://qph.cf2.quoracdn.net/main-qimg-9e73c498d0b6f66c98b4a3107921260e-lq"
+    },
+    {
+        "id": 4,
+        "name": "Izuku Midoriya",
+        "heroName": "Deku",
+        "quirk": "One For All",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e8/Izuku_Midoriya_Costume_Epsilon_Anime.png/revision/latest/scale-to-width-down/213?cb=20250211151355&path-prefix=es"
+    },
+    {
+        "id": 5,
+        "name": "Gigantomachia",
+        "heroName": "N/A",
+        "quirk": "Multiple Quirks",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a4/Gigantomachia_Anime_Perfil.png/revision/latest?cb=20210919184455&path-prefix=es"
+    },
+    {
+        "id": 6,
+        "name": "Enji Todoroki",
+        "heroName": "Endeavor",
+        "quirk": "Hellflame",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d4/Enji_Todoroki_S7_Visual.png/revision/latest?cb=20240615231526"
+    },
+    {
+        "id": 7,
+        "name": "Toya Todoroki",
+        "heroName": "Dabi",
+        "quirk": "Blueflame",
+        "imageUrl": "https://static.wikia.nocookie.net/personajes-de-ficcion-database/images/1/11/Dabi_Anime_Action%281%29.png/revision/latest?cb=20200803231139&path-prefix=es"
+    },
+    {
+        "id": 8,
+        "name": "Katsuki Bakugo",
+        "heroName": "Dynamight",
+        "quirk": "Explosion",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/5/50/Katsuki_Bakugo_Hero_Costume_Action_Pose.png/revision/latest?cb=20240505042927&path-prefix=es"
+    },
+    {
+        "id": 9,
+        "name": "Shoto Todoroki",
+        "heroName": "Shoto",
+        "quirk": "Half-Cold Half-Hot",
+        "imageUrl": "https://static.wikia.nocookie.net/factvsfiction/images/a/a6/Todoroki.png/revision/latest?cb=20170808005900"
+    },
+    {
+        "id": 10,
+        "name": "Keigo Takami",
+        "heroName": "Hawks",
+        "quirk": "Fierce Wings",
+        "imageUrl": "https://static.wikia.nocookie.net/near-pure-good-hero/images/d/d7/Hawks_Action_Pose.png/revision/latest?cb=20210530002222"
+    },
+    {
+        "id": 11,
+        "name": "Kai Chisaki",
+        "heroName": "Overhaul",
+        "quirk": "Overhaul",
+        "imageUrl": "https://static.wikia.nocookie.net/personajes-de-ficcion-database/images/0/00/Kai_Chisaki.png/revision/latest?cb=20201210225201&path-prefix=es"
+    },
+    {
+        "id": 12,
+        "name": "Cathleen Bate",
+        "heroName": "Star and Stripe",
+        "quirk": "New Order",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/4/4f/Star_and_Stripe_Traje_de_Heroe%28Anime%29.webp/revision/latest?cb=20240501150154&path-prefix=es"
+    },
+    {
+        "id": 13,
+        "name": "Tsunagu Hakamada",
+        "heroName": "Best Jeanist",
+        "quirk": "Fiber Master",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d4/Tsunagu_Hakamada_Third_Hero_Costume_%28Anime%29.png/revision/latest?cb=20240615231937"
+    },
+    {
+        "id": 14,
+        "name": "Rumi Usagiyama",
+        "heroName": "Mirko",
+        "quirk": "Rabbit",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/6/6b/Post-War_Rumi_Usagiyama_Hero_Costume_%28Anime%29.png/revision/latest?cb=20240615232231"
+    },
+    {
+        "id": 15,
+        "name": "Shinya Kamihara",
+        "heroName": "Edgeshot",
+        "quirk": "Foldabody",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/f/fa/Edgeshot_en_el_Manga.png/revision/latest?cb=20200627030245&path-prefix=es"
+    },
+    {
+        "id": 16,
+        "name": "Sora hiko Torino",
+        "heroName": "Gran Torino",
+        "quirk": "Jet",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8e/Gran_Torino.png/revision/latest?cb=20171014154515&path-prefix=es"
+    },
+    {
+        "id": 17,
+        "name": "Shouta Aizawa",
+        "heroName": "Eraser Head",
+        "quirk": "Erasure",
+        "imageUrl": "https://static.wikia.nocookie.net/p__/images/8/8e/Eraser_Head_Action_Pose.png/revision/latest?cb=20220623121439&path-prefix=protagonist"
+    },
+    {
+        "id": 18,
+        "name": "Mirio Togata",
+        "heroName": "Lemillion",
+        "quirk": "Permeation",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2e/Mirio_Togata_Action_2.png/revision/latest?cb=20240525123552"
+    },
+    {
+        "id": 19,
+        "name": "Nejire Hado",
+        "heroName": "Nejire Chan",
+        "quirk": "Wave Motion",
+        "imageUrl": "https://static.wikia.nocookie.net/world-adventures-fan-fiction-series/images/b/bd/Nejire_Hado.png/revision/latest?cb=20201228003003"
+    },
+    {
+        "id": 20,
+        "name": "Tamaki Amajiki",
+        "heroName": "Suneater",
+        "quirk": "Manifest",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/7/76/Tamaki_Amajiki_Action_2.png/revision/latest?cb=20240525123553"
+    },
+    {
+        "id": 21,
+        "name": "Fumikage Tokoyami",
+        "heroName": "Tsukuyomi",
+        "quirk": "Dark Shadow",
+        "imageUrl": "https://static.wikia.nocookie.net/doblaje/images/1/18/Fumikage_Tokoyami_Hero_Costume.png/revision/latest?cb=20210220192625&path-prefix=es"
+    },
+    {
+        "id": 22,
+        "name": "Hitoshi Shinso",
+        "heroName": "N/A",
+        "quirk": "Brainwashing",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/1/17/Hitoshi_Shinso%27s_Hero_Costume_%28Anime%29.png/revision/latest?cb=20240525123552"
+    },
+    {
+        "id": 23,
+        "name": "Taishiro Toyomitsu",
+        "heroName": "Fat Gum",
+        "quirk": "Fat Absorption",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/3/38/Fatgum_anime.png/revision/latest?cb=20190805014644&path-prefix=es"
+    },
+    {
+        "id": 24,
+        "name": "Rikiya Yotsubashi",
+        "heroName": "Re-Destro",
+        "quirk": "Stress",
+        "imageUrl": "https://static.wikia.nocookie.net/vsbattles/images/3/36/Re-Destro_Stress_Render.png/revision/latest?cb=20210930023639"
+    },
+    {
+        "id": 25,
+        "name": "Geten",
+        "heroName": "N/A",
+        "quirk": "Ice Ply",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/aa/Geten_%28anime%29.png/revision/latest/scale-to-width/360?cb=20210730180037&path-prefix=es"
+    },
+    {
+        "id": 26,
+        "name": "Jin Bubaigawara",
+        "heroName": "Twice",
+        "quirk": "Double",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/ec/Twice_Anime.png/revision/latest/scale-to-width/360?cb=20181116052709&path-prefix=es"
+    },
+    {
+        "id": 27,
+        "name": "Eri",
+        "heroName": "N/A",
+        "quirk": "Rewind",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/6/61/Eri_Anime_Fullbody_Casual.png/revision/latest?cb=20200905001452&path-prefix=es"
+    },
+    {
+        "id": 28,
+        "name": "Crust",
+        "heroName": "Crust",
+        "quirk": "Shield",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c7/Crust_Anime.png/revision/latest?cb=20200730022818&path-prefix=es"
+    },
+    {
+        "id": 29,
+        "name": "Yoroi Musha",
+        "heroName": "Yoroi Musha",
+        "quirk": "Unknown",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhhiI9x7G167hyg-_X2dTYrkVyj0mJbScJTZfDS8fio4ptM7KN6XWe5nQBF8aOLpcwT8&usqp=CAU"
+    },
+    {
+        "id": 30,
+        "name": "Ryuko Tatsuma",
+        "heroName": "Ryukyu",
+        "quirk": "Dragon",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ac/Ryukyu_Anime.png/revision/latest?cb=20190922224643&path-prefix=es"
+    },
+    {
+        "id": 31,
+        "name": "Kaina Tsutsumi",
+        "heroName": "Lady Nagant",
+        "quirk": "Rifle",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Kaina_Tsutsumi.png/revision/latest?cb=20230315204150&path-prefix=es"
+    },
+    {
+        "id": 32,
+        "name": "Neito Monoma",
+        "heroName": "Phantom Thief",
+        "quirk": "Copy",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/5/57/Neito_Monoma_Hero_Costume_Action.png/revision/latest?cb=20240615122324"
+    },
+    {
+        "id": 33,
+        "name": "Ken Ishiyama",
+        "heroName": "Cementoss",
+        "quirk": "Cement",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e9/Cementoss_Anime_Perfil.png/revision/latest/scale-to-width/360?cb=20170822071715&path-prefix=es"
+    },
+    {
+        "id": 34,
+        "name": "Inasa Yoarashi",
+        "heroName": "Gale Force",
+        "quirk": "Whirlwind",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/3/3b/Inasa_Yoarashi_Anime_Hero_Costume.png/revision/latest/scale-to-width/360?cb=20240515054353"
+    },
+    {
+        "id": 35,
+        "name": "Juzo Honenuki",
+        "heroName": "Mudman",
+        "quirk": "Softening",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/80/Juzo_Honenuki_Hero_Costume_Anime.png/revision/latest?cb=20210506002058"
+    },
+    {
+        "id": 36,
+        "name": "Yo Shindo",
+        "heroName": "Grand",
+        "quirk": "Vibrate",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/1/12/Yo_Shindo_Profile.png/revision/latest/scale-to-width/360?cb=20200203232035&path-prefix=es"
+    },
+    {
+        "id": 37,
+        "name": "Tenya Ida",
+        "heroName": "Ingenium",
+        "quirk": "Engine",
+        "imageUrl": "https://static.wikia.nocookie.net/world-war-fan-fiction-series/images/e/e6/Tenya_Iida.png/revision/latest?cb=20191129183310"
+    },
+    {
+        "id": 38,
+        "name": "Denki Kaminari",
+        "heroName": "Chargebolt",
+        "quirk": "Electrification",
+        "imageUrl": "https://static.wikia.nocookie.net/deathbattlefanon/images/2/23/Kaminari_Hero_Outfit.png/revision/latest?cb=20200827205219"
+    },
+    {
+        "id": 39,
+        "name": "Eijiro Kirishima",
+        "heroName": "Red Riot",
+        "quirk": "Hardening",
+        "imageUrl": "https://static.wikia.nocookie.net/world-war-fan-fiction-series/images/f/fc/Eijiro_Kirishima.png/revision/latest?cb=20191129183324"
+    },
+    {
+        "id": 40,
+        "name": "Himiko Toga",
+        "heroName": "N/A",
+        "quirk": "Transform",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/7/70/Himiko_Toga_Anime_Action.png/revision/latest/scale-to-width/360?cb=20240505040057&path-prefix=es"
+    },
+    {
+        "id": 41,
+        "name": "Atsuhiro Sako",
+        "heroName": "Mr. Compress",
+        "quirk": "Compress",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/5/5d/Mr._Compress_Anime_Action.png/revision/latest?cb=20240615231007"
+    },
+    {
+        "id": 42,
+        "name": "Shuichi Iguchi",
+        "heroName": "Spinner",
+        "quirk": "Gecko",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b9/Spinner_Anime_Action.png/revision/latest?cb=20240615231308"
+    },
+    {
+        "id": 43,
+        "name": "Ken Takagi",
+        "heroName": "Rock Lock",
+        "quirk": "Lock Down",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e1/Rock_Lock_Anime.png/revision/latest?cb=20190922223526&path-prefix=es"
+    },
+    {
+        "id": 44,
+        "name": "Kugo Sakamata",
+        "heroName": "Gang Orca",
+        "quirk": "Orcinus",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b6/Gang_Orca_2.png/revision/latest/scale-to-width-down/250?cb=20180904195617&path-prefix=es"
+    },
+    {
+        "id": 45,
+        "name": "Yu Hojo",
+        "heroName": "N/A",
+        "quirk": "Crystallize",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/82/Yu_Hojo_Anime_Profile.png/revision/latest?cb=20200105030016&path-prefix=es"
+    },
+    {
+        "id": 46,
+        "name": "Chiyo Shuzenji",
+        "heroName": "Recovery Girl",
+        "quirk": "Heal",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/0/04/Recovery_Girl_Anime.png/revision/latest?cb=20200419035245&path-prefix=es"
+    },
+    {
+        "id": 47,
+        "name": "Hizashi Yamada",
+        "heroName": "Present Mic",
+        "quirk": "Voice",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/f/fd/Present_Mic_Anime.png/revision/latest/scale-to-width/360?cb=20200205184728&path-prefix=es"
+    },
+    {
+        "id": 48,
+        "name": "Sekijiro Kan",
+        "heroName": "Vlad King",
+        "quirk": "Blood Control",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/7/72/Blood_King.png/revision/latest?cb=20180425133932&path-prefix=es"
+    },
+    {
+        "id": 49,
+        "name": "Nemuri Kayama",
+        "heroName": "Midnight",
+        "quirk": "Somnambulist",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/1/1a/Midnight_en_el_Anime.png/revision/latest?cb=20211201174523&path-prefix=es"
+    },
+    {
+        "id": 50,
+        "name": "Yui Kodai",
+        "heroName": "Rule",
+        "quirk": "Size",
+        "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d2/Yui_Kodai_Uniforme.png/revision/latest/scale-to-width/360?cb=20170801082744&path-prefix=es"
+    }
+]
